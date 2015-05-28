@@ -27,10 +27,20 @@ A light weight library used to easily attached simple gesture to recycle view ba
 
 Add the following lines to the build.gradle of your module : 
 
+Stable version
 ```javascript
 dependencies {
     ...
     compile 'com.netcosports.recyclergesture:library:0.1.0@aar'
+    ...
+}
+```
+
+Snapshot
+```javascript
+dependencies {
+    ...
+    compile 'com.netcosports.recyclergesture:library:0.2.0@aar'
     ...
 }
 ```
