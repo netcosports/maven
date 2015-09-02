@@ -46,3 +46,18 @@ dependencies {
 ```
 
 More information : [RecyclerGesture on GitHub](https://github.com/netcosports/RecyclerGesture)
+
+CircleIndicator
+=======
+
+A lightweight viewpager indicator like in nexus 5 launcher
+
+Temp version for supporting insertion and deletion (waiting for merge on official repo).
+```javascript
+dependencies {
+    ...
+    compile 'me.relex.circleindicator:1.1.6@aar'
+    ...
+}
+```
+More information : [CircleIndicator on GitHub](https://github.com/netcosports/CircleIndicator/tree/dynamic-view-pager)
