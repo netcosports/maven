@@ -59,12 +59,4 @@ dependencies {
     ...
 }
 ```
-Snapshot
-```javascript
-dependencies {
-    ...
-    compile 'com.netcosports.circleindicator:library:1.1.8-SNAPSHOT@aar'
-    ...
-}
-```
 More information : [CircleIndicator on GitHub](https://github.com/netcosports/CircleIndicator/)

@@ -2,13 +2,12 @@
 <metadata>
   <groupId>com.netcosports.circleindicator</groupId>
   <artifactId>library</artifactId>
+  <version>1.1.8-SNAPSHOT</version>
   <versioning>
-    <release>1.1.7</release>
-    <versions>
-      <version>0.1.0</version>
-      <version>1.1.7</version>
-      <version>1.1.8-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20160517.100436</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20160517100436</lastUpdated>
   </versioning>
 </metadata>
