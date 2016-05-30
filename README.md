@@ -55,16 +55,9 @@ A lightweight viewpager indicator such as the nexus 5 launcher indicator.
 ```javascript
 dependencies {
     ...
-    compile 'com.netcosports.circleindicator:library:1.1.7@aar'
+    compile 'com.netcosports.circleindicator:library:1.1.8@aar'
     ...
 }
 ```
-Snapshot
-```javascript
-dependencies {
-    ...
-    compile 'com.netcosports.circleindicator:library:1.1.8-SNAPSHOT@aar'
-    ...
-}
-```
+
 More information : [CircleIndicator on GitHub](https://github.com/netcosports/CircleIndicator/)
